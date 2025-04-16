@@ -1,6 +1,6 @@
 # A Weakly Supervised Deep Learning Framework for Patent Identification: A Case Study in Plasma Physics
 
-In this work, we introduced a weakly supervised deep learning framework for domain-specific patent identification, addressing the challenge of limited annotated data in specialized domains.
+In this work, we introduced a weakly supervised deep learning framework for domain-specific patent identification, addressing the challenge of limited annotated data in specialized domains. This framework will help researchers automatically identify patents within a specific domain.
 
 
 ![archi](https://github.com/sofean-mso/Patent-Identification/blob/main/archi__.png)
