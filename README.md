@@ -1,6 +1,6 @@
 # A Data-Centric Weakly Supervised Framework for Domain-Specific Patent Identification
 
-In this work introduces a weakly supervised deep learning framework for domain-specific patent identification, addressing the challenge of limited annotated data in specialized domains. It will help researchers automatically identify patents within a specific domain.
+In this work introduces a data-centric weakly supervised deep learning framework for domain-specific patent identification, addressing the challenge of limited annotated data in specialized domains. It will help researchers automatically identify patents within a specific domain.
 
 
 ![archi](https://github.com/sofean-mso/Patent-Identification/blob/main/archi__.png)
